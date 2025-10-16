@@ -56,6 +56,6 @@ Travel Planning: Tourists and commuters can quickly check and compare weather fo
 Environmental Monitoring: The dashboard serves as a simple tool for observing and comparing environmental metrics in different urban areas.
 
 Screenshots
-Hyderabad Dashboard View
+Hyderabad Dashboard View(https://github.com/Varad-v/Weather_dashboard/blob/0963f1043bfb039726af8a1423e74f94d5fb8c74/Screenshot%202025-10-16%20084708.png)
 
 Kolkata Dashboard View
