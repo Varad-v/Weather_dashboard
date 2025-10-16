@@ -58,4 +58,4 @@ Environmental Monitoring: The dashboard serves as a simple tool for observing an
 Screenshots
 Hyderabad Dashboard View(https://github.com/Varad-v/Weather_dashboard/blob/0963f1043bfb039726af8a1423e74f94d5fb8c74/Screenshot%202025-10-16%20084708.png)
 
-Kolkata Dashboard View
+Kolkata Dashboard View(https://github.com/Varad-v/Weather_dashboard/blob/main/Screenshot%202025-10-16%20084644.png)
